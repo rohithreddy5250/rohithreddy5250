@@ -1,4 +1,4 @@
-# Hi there, I'm Rohith Reddy 👋
+# Hi there, I'm Rohith Reddy 
 
 <div align="center">
   
@@ -6,17 +6,17 @@
   
 </div>
 
-## 🚀 About Me
+##  About Me
 
 Hi, I'm Rohith - a Computer Science major passionate about building user-friendly applications. I love bringing ideas to life through clean, responsive front-end code. Whether it's creating intuitive UIs, integrating APIs, or applying ML models to enhance user experience, I enjoy working across the stack to craft meaningful digital solutions.
 
-- 🔭 I'm currently working on AI-powered projects like text-to-image generation and intelligent recommendation systems
-- 🌱 I'm currently learning advanced front-end frameworks and machine learning integration techniques
-- 💬 Ask me about front-end development, UI/UX design, API integration, and ML-powered features
-- 📫 How to reach me: **rohithreddybaddam8@gmail.com**
-- ⚡ Fun fact: I believe great user experience is where beautiful design meets smart functionality
+-  I'm currently working on AI-powered projects like text-to-image generation and intelligent recommendation systems
+-  I'm currently learning advanced front-end frameworks and machine learning integration techniques
+-  Ask me about front-end development, UI/UX design, API integration, and ML-powered features
+-  How to reach me: **rohithreddybaddam8@gmail.com**
+-  Fun fact: I believe great user experience is where beautiful design meets smart functionality
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -39,7 +39,7 @@ Hi, I'm Rohith - a Computer Science major passionate about building user-friendl
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -51,29 +51,29 @@ Hi, I'm Rohith - a Computer Science major passionate about building user-friendl
   
 </div>
 
-## 🏆 Featured Projects
+## Featured Projects
 
-### 🎨 [Text-to-Image-Generation](https://github.com/rohithreddy5250/Text-to-Image-Generation-)
+### [Text-to-Image-Generation](https://github.com/rohithreddy5250/Text-to-Image-Generation-)
 Converting text prompts to images using Stable Diffusion models and autocast
 - **Tech**: Python, Stable Diffusion, Deep Learning
 
-### 🎨 [ImageColorisation](https://github.com/rohithreddy5250/ImageColorisation)
+### [ImageColorisation](https://github.com/rohithreddy5250/ImageColorisation)
 AI-powered image colorization system
 - **Tech**: Python, Computer Vision, Neural Networks
 
-### 🎬 [Movie Recommendation System](https://github.com/rohithreddy5250/Movie_Recommendation_system)
+###  [Movie Recommendation System](https://github.com/rohithreddy5250/Movie_Recommendation_system)
 Intelligent movie recommendation engine
 - **Tech**: Python, Machine Learning, Collaborative Filtering
 
-### 🏥 [Heart Disease Prediction](https://github.com/rohithreddy5250/Heart_Disease_Prediction)
+###  [Heart Disease Prediction](https://github.com/rohithreddy5250/Heart_Disease_Prediction)
 Medical prediction system for heart disease detection
 - **Tech**: Python, Machine Learning, Healthcare AI
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohithreddy5250&theme=react-dark&hide_border=true)
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <div align="center">
   
@@ -89,6 +89,6 @@ Medical prediction system for heart disease detection
   
   **"The only way to do great work is to love what you do."** - Steve Jobs
   
-  ⭐️ From [rohithreddy5250](https://github.com/rohithreddy5250)
+  From [rohithreddy5250](https://github.com/rohithreddy5250)
   
 </div>
