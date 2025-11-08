@@ -13,7 +13,7 @@ A Computer Science major passionate about building user-friendly applications. I
 -  I'm currently working on AI-powered projects like text-to-image generation and intelligent recommendation systems
 -  I'm currently learning advanced front-end frameworks and machine learning integration techniques
 -  Ask me about front-end development, UI/UX design, API integration, and ML-powered features
--  How to reach me: **rohithreddybaddam8@gmail.com**
+-  E-mail to reach me: **rohithreddybaddam8@gmail.com**
 -  Fun fact: I believe great user experience is where beautiful design meets smart functionality
 
 ## Tech Stack
@@ -77,7 +77,6 @@ Medical prediction system for heart disease detection
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohithreddyy)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohithreddy5250)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohithreddybaddam8@gmail.com)
   
