@@ -8,7 +8,7 @@
 
 ##  About Me
 
-Hi, I'm Rohith - a Computer Science major passionate about building user-friendly applications. I love bringing ideas to life through clean, responsive front-end code. Whether it's creating intuitive UIs, integrating APIs, or applying ML models to enhance user experience, I enjoy working across the stack to craft meaningful digital solutions.
+A Computer Science major passionate about building user-friendly applications. I love bringing ideas to life through clean, responsive front-end code. Whether it's creating intuitive UIs, integrating APIs, or applying ML models to enhance user experience, I enjoy working across the stack to craft meaningful digital solutions.
 
 -  I'm currently working on AI-powered projects like text-to-image generation and intelligent recommendation systems
 -  I'm currently learning advanced front-end frameworks and machine learning integration techniques
