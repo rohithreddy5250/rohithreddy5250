@@ -10,9 +10,9 @@
 
 A Computer Science major passionate about building user-friendly applications. I love bringing ideas to life through clean, responsive front-end code. Whether it's creating intuitive UIs, integrating APIs, or applying ML models to enhance user experience, I enjoy working across the stack to craft meaningful digital solutions.
 
--  I'm currently working on AI-powered projects like text-to-image generation and intelligent recommendation systems
--  I'm currently learning advanced front-end frameworks and machine learning integration techniques
--  Ask me about front-end development, UI/UX design, API integration, and ML-powered features
+-  I worked on AI-powered projects like text-to-image generation and intelligent recommendation systems
+-  I'm interested in advanced front-end frameworks and machine learning integration techniques
+-  front-end development, UI/UX design, API integration, and ML-powered development fascinates me.
 -  E-mail to reach me: **rohithreddybaddam8@gmail.com**
 -  Fun fact: I believe great user experience is where beautiful design meets smart functionality
 
